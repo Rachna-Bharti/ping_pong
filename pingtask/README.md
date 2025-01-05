@@ -105,16 +105,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 - **HTML5, CSS3, and JavaScript**: Core technologies used for the frontend game logic and rendering.
 
 ---
-
-Feel free to contact the project maintainer if you have any questions or issues!
 ```
-
-### Notes:
-
-- **Tech Stack** section highlights the technologies used for both frontend and backend.
-- **How to Run Locally** section gives clear instructions to run the game on a local machine.
-- **Contributing** section encourages others to contribute to the project if they wish.
-- **Folder Structure** shows the project’s organization and where to find specific files.
-- The **License** section mentions the licensing terms for the project (you can add a specific license like MIT if you want).
-
-This should serve as a good starting point for your GitHub repository! Let me know if you'd like to customize it further.
