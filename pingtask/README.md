@@ -94,9 +94,6 @@ Feel free to fork the project and submit pull requests. Contributions are welcom
 3. Make your changes and commit them.
 4. Open a pull request for review.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
