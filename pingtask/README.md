@@ -74,7 +74,7 @@ You can also run the frontend using a local server if needed, for example using 
 ## Folder Structure
 
 ```plaintext
-multiplayer-pingpong/
+pingptask/
 ├── backend/
 │   ├── main.py          # FastAPI server code
 │   ├── requirements.txt # Python dependencies
